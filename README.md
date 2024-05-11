@@ -1,0 +1,1 @@
+These five projects provided me with valuable experience in utilizing essential libraries such as numpy, pandas, and matplotlib, among others. Additionally, they helped me familiarize myself with new Python syntax as I transitioned from Java.
